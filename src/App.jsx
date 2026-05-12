@@ -129,7 +129,7 @@ const App = () => {
         
         {/* 상단 헤더 영역 */}
         <div className="bg-slate-800 text-white p-6 md:p-8 relative">
-          <h1 className="text-2xl md:text-3xl font-bold tracking-tight mb-2">기업 구조개편 방식별 타임라인 및 비교</h1>
+          <h1 className="text-2xl md:text-3xl font-bold tracking-tight mb-2">방식별 타임라인 및 비교</h1>
           <p className="text-slate-300 flex items-start sm:items-center gap-2 text-sm max-w-4xl leading-relaxed mb-6">
             <Info className="w-4 h-4 shrink-0 mt-0.5 sm:mt-0" />
             기준일(D-Day) 2027년 1월 1일 가상의 일정입니다. 탭을 선택하여 방식별 상세 일정 또는 전체 비교표를 확인하세요.
